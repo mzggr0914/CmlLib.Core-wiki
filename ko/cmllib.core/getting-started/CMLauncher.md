@@ -48,6 +48,7 @@ System.Net.ServicePointManager.DefaultConnectionLimit = 256;
 ```
 
 최대 커넥션 갯수 제한을 늘립니다. 다운로드 속도를 최대한 높혀줍니다.
+(.net framework 인 경우에만 해당됩니다.)
 
 ```csharp
 var path = new MinecraftPath();
